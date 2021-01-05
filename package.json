@@ -1,0 +1,25 @@
+{
+  "name": "js-udemy",
+  "version": "1.0.0",
+  "description": "\"Rules for this course\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patxxi/js-Udemy.git"
+  },
+  "author": "francisco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patxxi/js-Udemy/issues"
+  },
+  "homepage": "https://github.com/patxxi/js-Udemy#readme",
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
